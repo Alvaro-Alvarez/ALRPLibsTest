@@ -1,5 +1,4 @@
-﻿using ALPR.Models;
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.Configuration;
 
 namespace ALPR.Helper
 {
